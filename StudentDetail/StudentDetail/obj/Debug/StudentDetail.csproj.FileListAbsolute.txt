@@ -1,0 +1,101 @@
+c:\users\asus\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\obj\Debug\StudentDetail.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\visual studio 2013\Projects\WebApplication3\StudentDetail\obj\Debug\StudentDetail.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\StudentDetail.dll.config
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\StudentDetail.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\StudentDetail.pdb
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.SqlServer.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Microsoft.Owin.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Microsoft.Owin.Security.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Newtonsoft.Json.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Owin.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\SignalR.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\SignalR.Hosting.AspNet.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\SignalR.Hosting.Common.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\System.Net.Http.Formatting.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\System.Web.Http.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\WebAPIDoodle.SignalR.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.SqlServer.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Microsoft.Owin.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Microsoft.Owin.Security.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\Newtonsoft.Json.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\SignalR.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\SignalR.Hosting.AspNet.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\SignalR.Hosting.Common.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\System.Net.Http.Formatting.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\bin\System.Web.Http.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\obj\Debug\StudentDetail.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\obj\Debug\StudentDetail.dll
+C:\Users\asus\Documents\Visual Studio 2013\Projects\StudentDetail\StudentDetail\obj\Debug\StudentDetail.pdb
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\StudentDetail.dll.config
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\StudentDetail.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\StudentDetail.pdb
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.SqlServer.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.Owin.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.Owin.Security.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Owin.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\SignalR.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\SignalR.Hosting.AspNet.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\SignalR.Hosting.Common.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\System.Web.Http.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\WebAPIDoodle.SignalR.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.SqlServer.xml
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.Owin.xml
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.Owin.Security.xml
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\SignalR.xml
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\SignalR.Hosting.AspNet.xml
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\SignalR.Hosting.Common.xml
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\bin\System.Web.Http.xml
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\obj\Debug\StudentDetail.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\obj\Debug\StudentDetail.dll
+C:\Users\Dell\Desktop\Pradeep\SignalRExercise\SignalRExercise\StudentDetail\StudentDetail\obj\Debug\StudentDetail.pdb
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\StudentDetail.dll.config
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\StudentDetail.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\StudentDetail.pdb
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.SqlServer.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.Owin.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.Owin.Security.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Newtonsoft.Json.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Owin.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\SignalR.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\SignalR.Hosting.AspNet.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\SignalR.Hosting.Common.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\System.Net.Http.Formatting.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\System.Web.Http.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\WebAPIDoodle.SignalR.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.SqlServer.xml
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.Owin.xml
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Microsoft.Owin.Security.xml
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\Newtonsoft.Json.xml
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\SignalR.xml
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\SignalR.Hosting.AspNet.xml
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\SignalR.Hosting.Common.xml
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\System.Net.Http.Formatting.xml
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\bin\System.Web.Http.xml
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\obj\Debug\StudentDetail.csprojResolveAssemblyReference.cache
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\obj\Debug\StudentDetail.dll
+C:\Users\BalaKrishnan\Desktop\Pradeep\SignalRExercise\StudentDetail\StudentDetail\obj\Debug\StudentDetail.pdb
